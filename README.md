@@ -1,2 +1,2 @@
 # python_course
- Python Bootcamp COuse
+ Python Bootcamp Course
